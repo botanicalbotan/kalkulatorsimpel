@@ -1,0 +1,10 @@
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\bin\Debug\Kalkulator Simpel.exe.config
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\bin\Debug\Kalkulator Simpel.exe
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\bin\Debug\Kalkulator Simpel.pdb
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\obj\Debug\Kalkulator Simpel.csprojResolveAssemblyReference.cache
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\obj\Debug\Kalkulator_Simpel.Form1.resources
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\obj\Debug\Kalkulator_Simpel.Properties.Resources.resources
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\obj\Debug\Kalkulator Simpel.csproj.GenerateResource.Cache
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\obj\Debug\Kalkulator Simpel.csproj.CoreCompileInputs.cache
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\obj\Debug\Kalkulator Simpel.exe
+E:\Kodingan Aing\VS C#\Umum\Kalkulator Simpel\Kalkulator Simpel\obj\Debug\Kalkulator Simpel.pdb
